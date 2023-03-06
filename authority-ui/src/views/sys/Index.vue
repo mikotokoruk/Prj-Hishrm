@@ -39,20 +39,20 @@
         <el-collapse accordion>
           <el-collapse-item>
             <template slot="title">
-              一键生成mysql数据库表
+              简介1
             </template>
-            <div>根据动态生成的sql语句生成数据库表</div>
+            <div>1</div>
 
           </el-collapse-item>
-          <el-collapse-item title="一键生成前后端代码">
-            <div>通过mybatis-plus、velocity自定义模版引擎动态生成代码</div>
+          <el-collapse-item title="简介2">
+            <div>2</div>
 
           </el-collapse-item>
-          <el-collapse-item title="一键生成数据库文档">
-            <div>基于screw框架生成数据库文档，直接可以使用！</div>
+          <el-collapse-item title="简介3">
+            <div>3</div>
           </el-collapse-item>
-          <el-collapse-item title="一键生成接口api文档">
-            <div>基于smart-doc技术，通过注释的方式，动态快速生成api文档！</div>
+          <el-collapse-item title="简介4">
+            <div>4</div>
 
           </el-collapse-item>
         </el-collapse>
